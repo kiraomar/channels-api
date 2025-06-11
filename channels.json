@@ -1,0 +1,19 @@
+{
+  "channels": [
+    {
+      "name": "beIN Sports 1 ᴴᴰ",
+      "logo": "http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png",
+      "url": "http://dream4k.co:8080/109219152973105/fxnfo9ofnx/534831"
+    },
+    {
+      "name": "beIN Sports 1 HD BEE TV",
+      "logo": "http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png",
+      "url": "http://dream4k.co:8080/109219152973105/fxnfo9ofnx/108161"
+    },
+    {
+      "name": "beIN Sports 1 APPEL",
+      "logo": "http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png",
+      "url": "http://dream4k.co:8080/109219152973105/fxnfo9ofnx/1121789"
+    }
+  ]
+}
