@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id_groups": 10,
+    "groups_name_ar": "بين سبورت",
+    "groups_name_en": "beIN Sports",
+    "groups_main_icon": "http://dynato.xyz:80/images/acc6e3d6efa7f8419a599f5263d4f0f2.png",
+    "groups_sub_icon": "http://dynato.xyz:80/images/acc6e3d6efa7f8419a599f5263d4f0f2.png",
+    "groups_logo": "http://dynato.xyz:80/images/acc6e3d6efa7f8419a599f5263d4f0f2.png",
+    "groups_mobile_logo": "http://dynato.xyz:80/images/acc6e3d6efa7f8419a599f5263d4f0f2.png",
+    "groups_sorting_index": 1,
+    "groups_awesome_icon": "fa-futbol"
+  }
+]
