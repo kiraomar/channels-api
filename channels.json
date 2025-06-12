@@ -1,74 +1,54 @@
-[
-  {
-    "id_groups": 10,
-    "groups_name_ar": "بين سبورت - المجموعة 1",
-    "groups_name_en": "beIN Sports - Group 1",
-    "groups_main_icon": "http://dynato.xyz:80/images/acc6e3d6efa7f8419a599f5263d4f0f2.png",
-    "groups_sub_icon": "http://dynato.xyz:80/images/acc6e3d6efa7f8419a599f5263d4f0f2.png",
-    "groups_logo": "http://dynato.xyz:80/images/acc6e3d6efa7f8419a599f5263d4f0f2.png",
-    "groups_mobile_logo": "http://dynato.xyz:80/images/acc6e3d6efa7f8419a599f5263d4f0f2.png",
-    "groups_link": "placeholder_link_10",
-    "groups_sorting_index": 1,
-    "groups_awesome_icon": "fa-futbol"
-  },
-  {
-    "id_groups": 11,
-    "groups_name_ar": "بين سبورت - المجموعة 2",
-    "groups_name_en": "beIN Sports - Group 2",
-    "groups_main_icon": "http://dynato.xyz:80/images/ad56137382192cee1cb6bf09a35a5d48.png",
-    "groups_sub_icon": "http://dynato.xyz:80/images/ad56137382192cee1cb6bf09a35a5d48.png",
-    "groups_logo": "http://dynato.xyz:80/images/ad56137382192cee1cb6bf09a35a5d48.png",
-    "groups_mobile_logo": "http://dynato.xyz:80/images/ad56137382192cee1cb6bf09a35a5d48.png",
-    "groups_link": "placeholder_link_11",
-    "groups_sorting_index": 2,
-    "groups_awesome_icon": "fa-futbol"
-  },
-  {
-    "id_groups": 12,
-    "groups_name_ar": "بين سبورت - المجموعة 3",
-    "groups_name_en": "beIN Sports - Group 3",
-    "groups_main_icon": "http://dynato.xyz:80/images/870e667ffbee36494d31d36d5ad847c4.png",
-    "groups_sub_icon": "http://dynato.xyz:80/images/870e667ffbee36494d31d36d5ad847c4.png",
-    "groups_logo": "http://dynato.xyz:80/images/870e667ffbee36494d31d36d5ad847c4.png",
-    "groups_mobile_logo": "http://dynato.xyz:80/images/870e667ffbee36494d31d36d5ad847c4.png",
-    "groups_link": "placeholder_link_12",
-    "groups_sorting_index": 3,
-    "groups_awesome_icon": "fa-futbol"
-  },
-  {
-    "id_groups": 13,
-    "groups_name_ar": "بين سبورت - المجموعة 4",
-    "groups_name_en": "beIN Sports - Group 4",
-    "groups_main_icon": "http://dynato.xyz:80/images/b61aef6d8184f58e1934a73631da1de1.png",
-    "groups_sub_icon": "http://dynato.xyz:80/images/b61aef6d8184f58e1934a73631da1de1.png",
-    "groups_logo": "http://dynato.xyz:80/images/b61aef6d8184f58e1934a73631da1de1.png",
-    "groups_mobile_logo": "http://dynato.xyz:80/images/b61aef6d8184f58e1934a73631da1de1.png",
-    "groups_link": "placeholder_link_13",
-    "groups_sorting_index": 4,
-    "groups_awesome_icon": "fa-futbol"
-  },
-  {
-    "id_groups": 14,
-    "groups_name_ar": "بين سبورت - المجموعة 5",
-    "groups_name_en": "beIN Sports - Group 5",
-    "groups_main_icon": "http://placeholder.com/logo.png",
-    "groups_sub_icon": "http://placeholder.com/logo.png",
-    "groups_logo": "http://placeholder.com/logo.png",
-    "groups_mobile_logo": "http://placeholder.com/logo.png",
-    "groups_link": "placeholder_link_14",
-    "groups_sorting_index": 5,
-    "groups_awesome_icon": "fa-futbol"
-  },
-  {
-    "id_groups": 15,
-    "groups_name_ar": "بين سبورت - المجموعة 6",
-    "groups_name_en": "beIN Sports - Group 6",
-    "groups_main_icon": "http://placeholder.com/logo.png",
-    "groups_sub_icon": "http://placeholder.com/logo.png",
-    "groups_logo": "http://placeholder.com/logo.png",
-    "groups_mobile_logo": "http://placeholder.com/logo.png",
-    "groups_link": "placeholder_link_15",
-    "groups_sorting_index": 6,
-    "groups_awesome_icon": "fa-futbol"
-  }
-]
+{
+  "api_status": 1,
+  "api_message": "success",
+  "data": [
+    {
+      "id": 1,
+      "id_groups": 10,
+      "name_en": "beIN Sports 1",
+      "name_ar": "بين سبورت 1",
+      "logo_name": "beIN Sports 1",
+      "logo": "http://dynato.xyz:80/images/acc6e3d6efa7f8419a599f5263d4f0f2.png",
+      "link": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8",
+      "link2": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720.m3u8",
+      "link3": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_360.m3u8",
+      "link4": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_240.m3u8"
+    },
+    {
+      "id": 2,
+      "id_groups": 11,
+      "name_en": "beIN Sports 2",
+      "name_ar": "بين سبورت 2",
+      "logo_name": "beIN Sports 2",
+      "logo": "http://dynato.xyz:80/images/ad56137382192cee1cb6bf09a35a5d48.png",
+      "link": "https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_1080.m3u8",
+      "link2": "https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_720.m3u8",
+      "link3": "https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_360.m3u8",
+      "link4": "https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_240.m3u8"
+    },
+    {
+      "id": 3,
+      "id_groups": 12,
+      "name_en": "beIN Sports 3",
+      "name_ar": "بين سبورت 3",
+      "logo_name": "beIN Sports 3",
+      "logo": "http://dynato.xyz:80/images/870e667ffbee36494d31d36d5ad847c4.png",
+      "link": "https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/ch3_1080.m3u8",
+      "link2": "https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/ch3_720.m3u8",
+      "link3": "https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/ch3_360.m3u8",
+      "link4": "https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/ch3_240.m3u8"
+    },
+    {
+      "id": 4,
+      "id_groups": 13,
+      "name_en": "beIN Sports 4",
+      "name_ar": "بين سبورت 4",
+      "logo_name": "beIN Sports 4",
+      "logo": "http://dynato.xyz:80/images/b61aef6d8184f58e1934a73631da1de1.png",
+      "link": "https://stream.supertv.gg:3004/supertv/sport/stv4/ch4/ch4_1080.m3u8",
+      "link2": "https://stream.supertv.gg:3004/supertv/sport/stv4/ch4/ch4_720.m3u8",
+      "link3": "https://stream.supertv.gg:3004/supertv/sport/stv4/ch4/ch4_360.m3u8",
+      "link4": "https://stream.supertv.gg:3004/supertv/sport/stv4/ch4/ch4_240.m3u8"
+    }
+  ]
+}
